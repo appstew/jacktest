@@ -28,6 +28,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-[![img](../assets/img/blog/dark-mode.jpg)](../../docs/install)
+[![img](../assets/img/blog/dark-mode.jpg)](../docs/install)
 
 [img]: ../docs/install.md
